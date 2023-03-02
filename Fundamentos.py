@@ -129,14 +129,16 @@ nuevoTema("Cadenas")
 s= "Esta es una cadena" #Tambien se pueden escribir con comillas simples
 print(s)
 s='''Esta es 
-una cadena  
-'''
+una cadena  '''
 print(s)
 cadena1="Hola"
 cadena1= (cadena1+" ")*5
 print(cadena1)
 print(cadena1.capitalize())
 #Cadenas
+
+
+#if
 
 
 
